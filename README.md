@@ -1,5 +1,3 @@
-# Detector-Jogador-futebol
-
 # Detector de Jogadores de Futebol
 
 Este notebook tem como objetivo demonstrar o uso do YOLOv9 para detecção de objetos, com foco na detecção de jogadores de futebol. O conteúdo deste notebook é baseado em um vídeo do YouTube disponível em [Assistir vídeo](https://www.youtube.com/watch?v=XHT2c8jT3Bc).
